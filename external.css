@@ -27,9 +27,13 @@ body {
     color: white;
     background-color:black;
 }
-.enter-info{
-    font: 10px;
-}
+
 .but-on{
     color: green;
+}
+
+.header-1{
+    color: white;
+    background-color: black;
+    height: 50px;
 }
