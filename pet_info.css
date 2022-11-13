@@ -1,0 +1,35 @@
+#main {
+    width: 400px;  
+    text-align: center;
+    padding: 15px;  
+    border: 3px solid red;  
+    }  
+
+img {  
+    max-width: 100%;  
+    height: auto;  
+}  
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f1f1f1;
+  }
+
+li {
+    float:left
+}
+li a {
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+  }
